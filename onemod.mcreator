@@ -27,6 +27,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "one_mod"
+    },
+    {
+      "name": "BedrockSwordRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_sword_recipe"
     }
   ],
   "variable_elements": [],
