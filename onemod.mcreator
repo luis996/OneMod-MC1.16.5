@@ -54,6 +54,32 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bedrock_axe_recipe"
+    },
+    {
+      "name": "BedrockKitCommandExecuted",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_kit_command_executed",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BedrockKit",
+      "type": "command",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_kit"
     }
   ],
   "variable_elements": [],
