@@ -45,6 +45,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bedrock_axe"
+    },
+    {
+      "name": "BedrockAxeRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_axe_recipe"
     }
   ],
   "variable_elements": [],
