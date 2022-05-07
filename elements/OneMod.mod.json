@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "OneMod",
+    "icon": {
+      "value": "CUSTOM:BedrockSword"
+    },
+    "showSearch": false
+  }
+}
