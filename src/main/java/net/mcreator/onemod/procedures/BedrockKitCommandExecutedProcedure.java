@@ -7,6 +7,7 @@ import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.Entity;
 
 import net.mcreator.onemod.item.BedrockSwordItem;
+import net.mcreator.onemod.item.BedrockPickaxeItem;
 import net.mcreator.onemod.item.BedrockAxeItem;
 import net.mcreator.onemod.OnemodMod;
 
@@ -27,6 +28,11 @@ public class BedrockKitCommandExecutedProcedure {
 		}
 		if (entity instanceof PlayerEntity) {
 			ItemStack _setstack = new ItemStack(BedrockAxeItem.block);
+			_setstack.setCount((int) 1);
+			ItemHandlerHelper.giveItemToPlayer(((PlayerEntity) entity), _setstack);
+		}
+		if (entity instanceof PlayerEntity) {
+			ItemStack _setstack = new ItemStack(BedrockPickaxeItem.block);
 			_setstack.setCount((int) 1);
 			ItemHandlerHelper.giveItemToPlayer(((PlayerEntity) entity), _setstack);
 		}
