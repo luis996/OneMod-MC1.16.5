@@ -1,0 +1,34 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "pico_bedrock",
+    "customModelName": "Normal",
+    "name": "Bedrock Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:OneMod"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 128000,
+    "efficiency": 128000.0,
+    "attackSpeed": 100.0,
+    "enchantability": 128000,
+    "damageVsEntity": 128000.0,
+    "usageCount": 128000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "Blocks.DIAMOND_BLOCK"
+      },
+      {
+        "value": "Blocks.BEDROCK"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}
