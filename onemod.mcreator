@@ -94,6 +94,12 @@
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
+    "es_pe": {
+      "item.onemod.bedrock_axe": "Hacha de bedrock",
+      "item.onemod.bedrock_pickaxe": "Pico de bedrock",
+      "item.onemod.bedrock_sword": "Espada de bedrock",
+      "itemGroup.tabone_mod": "OneMod"
+    },
     "en_us": {
       "item.onemod.bedrock_axe": "Bedrock Axe",
       "item.onemod.bedrock_pickaxe": "Bedrock Pickaxe",
