@@ -89,6 +89,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "bedrock_pickaxe"
+    },
+    {
+      "name": "BedrockPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bedrock_pickaxe_recipe"
     }
   ],
   "variable_elements": [],
